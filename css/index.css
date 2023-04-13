@@ -1,0 +1,75 @@
+body{
+    text-align: center;
+    background: linear-gradient(to bottom right, grey 50%, purple 50%);
+}
+h1 {
+    font-size: 3rem;
+    color: #fff;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+    width: 70%;
+    margin:auto;
+}
+h2{
+    font-size: 2rem;
+    color: #fff;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+    width: 70%;
+    margin:auto;    
+
+}
+.heading{
+    width: 75%;
+    margin: auto;
+    background-color: pink;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 70px;
+    
+}
+.img{
+    border-style: dotted;
+}
+.p{
+    line-height: 1.5;
+}
+.mdl{
+    text-align: left;
+    line-height: 2;
+}
+.font{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+.bgc{
+    background: radial-gradient(red,pink);
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 7px;
+    width:100px;
+    margin: auto;
+    margin-top: 20px;
+}
+.mid-container{
+    padding-top: 50px;
+}
+.footer{
+    text-align: right;
+    padding-top: 40px;
+    font-size: 0.7rem;
+}
+.font{
+    padding-top: 50px;
+    padding-left: 60px;
+    text-align: left;
+}
+.test{
+    width: 70%;
+    margin: auto;
+    line-height: 2;
+    font-size: 20px;
+}
